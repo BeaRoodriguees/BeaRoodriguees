@@ -23,14 +23,4 @@
   <img style="margin: 5px" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"  height="50" />
 </div>
 
-<br>
-
-
-## 🎵 Now Playing
-
-<div style="text-align: center;">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xqacue0dc3waqqfqn22g6ueg1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=xqacue0dc3waqqfqn22g6ueg1&redirect=true)
-
-</div>
 
